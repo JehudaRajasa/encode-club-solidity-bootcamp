@@ -1,0 +1,9 @@
+[submodule "week-1/openzeppelin-contracts"]
+	path = week-1/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "week-2/EncodeFormation"]
+	path = week-2/EncodeFormation
+	url = https://github.com/Punt13140/EncodeFormation/tree/main
+[submodule "final-project/EncodeFinalProject"]
+	path = final-project/EncodeFinalProject
+	url = https://github.com/Punt13140/EncodeFinalProject
